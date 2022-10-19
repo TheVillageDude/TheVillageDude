@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TheVillageDude
 - 👀 I’m interested in ... making games on Unity
 - 🌱 I’m currently learning ... C#
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... thevillagedude@outlook.com
 
 <!---
